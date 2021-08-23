@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Life is pain, stop coding
+[Linkedin](https://www.linkedin.com/in/bagustambunan/)
