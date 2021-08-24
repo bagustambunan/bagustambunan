@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 📽 Movie holic
 <br>
 
-🕓 Bermalasan-malasan hobbyst
+🕓 Bermalasan-malasan hobbyist
 <br>
