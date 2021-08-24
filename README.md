@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 <!--
 **bagustambunan/bagustambunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Linkedin](https://www.linkedin.com/in/bagustambunan/)
+🔭 Design freak
 <br>
-[Linktree](https://linktr.ee/bagustambunan)
+
+🌱 Frontend geek
+<br>
+
+👯 Data maniac
+<br>
+
+👯 Music addict
+<br>
+
+🤔 Movie holic
+<br>
+
+💬 Bermalasan-malasan hobbyst
+<br>
