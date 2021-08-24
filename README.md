@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Design freak
+🎨 Design freak
 <br>
 
-🌱 Frontend geek
+💻 Frontend geek
 <br>
 
-👯 Data maniac
+📈 Data maniac
 <br>
 
-👯 Music addict
+🎧 Music addict
 <br>
 
-🤔 Movie holic
+📽 Movie holic
 <br>
 
-💬 Bermalasan-malasan hobbyst
+🕓 Bermalasan-malasan hobbyst
 <br>
