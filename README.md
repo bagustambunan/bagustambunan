@@ -6,4 +6,7 @@ Hi! I do:
 - Graphic Design
 
 Linkedin: https://www.linkedin.com/in/bagustambunan/
+
 Read my Medium: https://bagustambunan.medium.com/
+
+Portfolio: https://bagustambunan.vercel.app/
