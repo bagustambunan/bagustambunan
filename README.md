@@ -7,6 +7,8 @@ I draw stickers for LINE:
 - Pencil loves Paper: https://store.line.me/stickershop/author/75954/en
 - PECEL Stickers: https://store.line.me/stickershop/author/89968/en
 
+Check my mini studio: https://duduu.vercel.app/
+
 Read my Medium: https://bagustambunan.medium.com
 
 Check my portfolio: https://bagustambunan.vercel.app
