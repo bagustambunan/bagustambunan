@@ -11,10 +11,10 @@ I draw stickers for LINE:
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/bff10938-bb1a-498a-b38a-60800bf42fe6" />
 
-Check my mini studio: https://duduu.vercel.app/
+Check out my mini app and design studio: https://duduu.vercel.app/
 
 Read my Medium: https://bagustambunan.medium.com
 
-Check my portfolio: https://bagustambunan.vercel.app
+Check out my portfolio: https://bagustambunan.vercel.app
 
 Let's connect on LinkedIn: https://www.linkedin.com/in/bagustambunan
