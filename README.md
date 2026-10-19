@@ -2,9 +2,7 @@
 
 I'm a software engineer who also likes graphic design and drawing stickers.
 
-I worked at Shopee from 2022 to 2026, starting as a frontend engineer and later moving into full-stack development. I worked on internal systems used by thousands of people across 15+ countries.
-
-My work included frontend and backend development, building backend services, and fixing performance issues. I also built tools for other developers, including VS Code extensions and MCP servers.
+In 2022, I joined Shopee as a frontend engineer and later became a full-stack engineer. I worked on internal systems used by thousands of people across 15+ countries. My work included frontend development, building backend services from scratch, fixing performance issues, and creating developer tools, including VS Code extensions and MCP servers.
 
 ## Android Apps
 
@@ -24,7 +22,7 @@ I also draw stickers for LINE. Here are my creator pages:
 - [Pencil loves Paper](https://store.line.me/stickershop/author/75954/en)
 - [PECEL Stickers](https://store.line.me/stickershop/author/89968/en)
 
-<img width="650" alt="My LINE sticker collections" src="https://github.com/user-attachments/assets/bff10938-bb1a-498a-b38a-60800bf42fe6" />
+<img width="600" alt="My LINE sticker collections" src="https://github.com/user-attachments/assets/bff10938-bb1a-498a-b38a-60800bf42fe6" />
 
 You can also check out my apps, characters, and design work at [Duduu Friends](https://duduu.vercel.app/).
 
